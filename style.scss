@@ -13,7 +13,7 @@
 }
 html,body{
   width: 100vw;
-  height: 80vh;
+  height: 100vh;
 }
 
 body{
@@ -26,7 +26,7 @@ body{
 section{
   width: 50%;
   min-width: 100px;
-  max-width: 600px;
+  max-width: 580px;
   background-color: #f2f2f2;
   padding: 20px;
 }
@@ -41,8 +41,8 @@ input[type="text"]{
 
 input[type="submit"]{
   width: 100%;
-  background-color: #4caf50;
-  color: #fff;
+  background-color: #359438;
+  color: rgb(236, 232, 232);
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
